@@ -12,7 +12,7 @@
 Para clonar o projeto em sua máquina, digite:
 
 ```
-git clone https://github.com/camilacarvalhon/desafio_up_estagio_ti.git
+git clone https://github.com/camilacarvalhon/desafio_up_ti.git
 ```
 <br>
 <hr>
