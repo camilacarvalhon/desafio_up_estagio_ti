@@ -38,11 +38,17 @@ Instalação das dependêcias do projeto
 npm i
 ```
 
-### ⚙️ Executando Servidor
+### ⚙️ Executando Servidor e rodando com o live server
+
+1º Vá ao terminal e digite:
 
 ```
 npm run start
 ```
+
+2º Acesse a página da aplicação e abra com o live server.
+
+
 <br>
 <hr>
 
