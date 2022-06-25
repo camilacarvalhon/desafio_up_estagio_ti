@@ -1,0 +1,28 @@
+{
+  "name": "desafio_up_estagio_ti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilacarvalhon/desafio_up_estagio_ti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilacarvalhon/desafio_up_estagio_ti/issues"
+  },
+  "homepage": "https://github.com/camilacarvalhon/desafio_up_estagio_ti#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
