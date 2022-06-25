@@ -3,6 +3,10 @@
 
 * Sistema criado com a finalidade de fazer o cadastro de livros no banco de dados MongoDB e trazer por meio de um filtro os dados cadastrados no banco para uma tabela no frontend.
 
+<div>
+    <img  src="src/assets/tela_cadastro.png">
+</div>
+
 
 ### :rocket: Como executar
 Para clonar o projeto em sua máquina, digite:
